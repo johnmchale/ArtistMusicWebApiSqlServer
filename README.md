@@ -1,4 +1,4 @@
-# ArtistMusicSqlServer
+# ArtistMusicWebApiSqlServer
 
 This is an ASP.NET Core 3.1 Web API solution that connects to a SQL Server database
 
